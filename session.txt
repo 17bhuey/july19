@@ -1,0 +1,8 @@
+July 19, 2015
+- Github repo for code today
+- Powers of 2 and hexadecimal
+- Word ladders: https://web.stanford.edu/class/cs106b/homework/2-wordladder-ngrams/spec.pdf
+- Dictionaries- a data structure which implements an associative list. No ordering of the keys. Problem:
+	- Get most frequently letter word in document.
+	- Count occurrences of every letter in a document.
+- Objects and classes
